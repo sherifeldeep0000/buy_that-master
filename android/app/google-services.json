@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940953324356",
+    "firebase_url": "https://buy-that-2dd53.firebaseio.com",
+    "project_id": "buy-that-2dd53",
+    "storage_bucket": "buy-that-2dd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940953324356:android:05659205a8a3a9bb44a511",
+        "android_client_info": {
+          "package_name": "com.example.buy_that"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940953324356-ra06cjqs572vvti0sohhqipjaurvu1o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPCJ17T1F9-4rgiUcp5wDHPn67KWNZuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940953324356-ra06cjqs572vvti0sohhqipjaurvu1o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
